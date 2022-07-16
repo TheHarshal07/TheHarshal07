@@ -1,6 +1,8 @@
 # Hi 👋, I'm Harshal Bhogal
 <img align="right" height="250" width="250" alt="" src="Photo/Circle.png" />
-A passionate to learn programming and explore new things</h3>
+
+A passionate to learn programming and explore new things
+
 
 * 🌱 I’m student pursuing B.E in **IT**
 * 🧠  I'm learning JS
