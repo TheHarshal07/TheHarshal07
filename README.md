@@ -9,7 +9,7 @@ A passionate to learn programming and explore new things
 * 📝 See my blog at [blog](https://thecodeharsh.blogspot.com/)
 * 📫 You can contact me via [mail](mailto:harshalbhogal8@gmail.com)
 * 📄 Know about my experiences [resume](https://drive.google.com/file/d/1VyyFtj_WgCnR182yi2j8JOLpev9gLwrJ/view?usp=sharing)
-* ⚡ **I'm MARVEL fan**
+* ⚡ **I'm secretly master-chef**
 * 🍁 Connect with me: 
 [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/TheHarshal07) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/harshalbhogal07/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/harshal-bhogal-a5b3461b5/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://twitter.com/Harshal7_8_2)<br /><br />
 
