@@ -33,7 +33,8 @@ A passionate to learn programming and explore new things
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer">
   
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theharshal07&show_icons=true&locale=en&layout=compact" alt="theharshal07" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theharshal07&show_icons=true&locale=en&layout=compact" alt="theharshal07" /></p> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj2502&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
   
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" alt="theharshal07" /></p>
