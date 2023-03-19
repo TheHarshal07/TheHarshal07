@@ -34,8 +34,8 @@ A passionate to learn programming and explore new things
   
   
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theharshal07&show_icons=true&locale=en&layout=compact" alt="theharshal07" /></p> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj2502&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshal07&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
   
  
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" alt="theharshal07" /></p> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=TheHarshal07&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
