@@ -14,9 +14,9 @@ A passionate to learn programming and explore new things
 [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/TheHarshal07) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/harshalbhogal07/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/harshal-bhogal-a5b3461b5/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://twitter.com/Harshal7_8_2)<br /><br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHarshal07&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHarshal07&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="175" alt="stats graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshal07&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshal07&theme=react&layout=compact&card_width=320&langs_count=5" height="175" alt="languages graph"  />
 
 ## Skills
 
