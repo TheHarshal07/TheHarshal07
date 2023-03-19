@@ -13,6 +13,10 @@ A passionate to learn programming and explore new things
 * 🍁 Connect with me: 
 [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/TheHarshal07) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/harshalbhogal07/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/harshal-bhogal-a5b3461b5/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://twitter.com/Harshal7_8_2)<br /><br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHarshal07&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshal07&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
 
 ## Skills
 
@@ -32,10 +36,4 @@ A passionate to learn programming and explore new things
 ### Library
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer">
   
-  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theharshal07&show_icons=true&locale=en&layout=compact" alt="theharshal07" /></p> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHarshal07&theme=react&layout=compact&card_width=320&langs_count=5" height="150" alt="languages graph"  />
-  
  
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" alt="theharshal07" /></p> -->
-<img src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" height="150" alt="stats graph"  />
