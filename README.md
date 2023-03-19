@@ -38,4 +38,4 @@ A passionate to learn programming and explore new things
   
  
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" alt="theharshal07" /></p> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=TheHarshal07&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=theharshal07&show_icons=true&locale=en" height="150" alt="stats graph"  />
