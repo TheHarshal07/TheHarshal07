@@ -36,6 +36,18 @@ A passionate to learn programming and explore new things
 
 <h3 align="left">Others tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
+
+
+<div align="center">
+
+![snake gif](https://github.com/TheHarshal07/TheHarshal07/blob/output/github-contribution-grid-snake.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif">
+  <img alt="github-snake" src="github-contribution-grid-snake.gif">
+</picture>
+</div>
  
  
 
