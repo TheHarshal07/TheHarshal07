@@ -41,12 +41,6 @@ A passionate to learn programming and explore new things
 <div align="center">
 
 ![snake gif](https://github.com/TheHarshal07/TheHarshal07/blob/output/github-contribution-grid-snake.gif)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.gif">
-  <img alt="github-snake" src="github-contribution-grid-snake.gif">
-</picture>
 </div>
  
  
