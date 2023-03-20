@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harshal Bhogal
-<img align="right" height="240" width="240" alt="" src="Photo/Circle.png" />
+<!-- <img align="right" height="240" width="240" alt="" src="Photo/Circle.png" /> -->
 
 A passionate to learn programming and explore new things
 
