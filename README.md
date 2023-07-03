@@ -5,7 +5,7 @@ A passionate to learn programming and explore new things
 
 
 * 🌱 I’m a student pursuing B.E in **IT**
-* 🧠  I'm currently learning ML
+* 🖥️ see my [portfolio]( https://theharshal07.github.io/portfolio.github.io/)
 * 📝 See my blog at [blog](https://thecodeharsh.blogspot.com/)
 * 📫 You can contact me via [mail](mailto:harshalbhogal8@gmail.com)
 * 📄 Know about my experiences [resume](https://drive.google.com/file/d/1Pk6_9EP_JwizNlkaF8f7P0hqkDTXnrqz/view?usp=share_link)
